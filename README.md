@@ -1,4 +1,4 @@
-<img width="100%" height="250px" src="https://github.com/cicarelligiuliano/cicarelligiuliano/blob/master/images/Banner.png?raw=true" />
+<img width="100%" height="250px" src="https://github.com/cicarelligiuliano/cicarelligiuliano/blob/main/images/Banner.png?raw=true" />
 <!-- <img  src="https://github.com/Whit3-Devs/Whit3-Devs/blob/master/images/AboutMe.png?raw=true" /> -->
 
 <!--
