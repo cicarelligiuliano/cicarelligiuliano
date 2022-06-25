@@ -6,7 +6,7 @@
 
 -   🔭 I’m currently studying on **Henry Bootcamp**
 
--   📝 Connect with me by Linkedin [https://www.linkedin.com/in/cicarelligiuliano/](https://www.linkedin.com/in/cicarelligiuliano/)
+-   📝 Connect with me by Linkedin [https://www.linkedin.com/in/giulianocicarelli/](https://www.linkedin.com/in/giulianocicarelli/)
 
 -   📫 How to reach me **cicarelligiuliano@outlook.com.ar**
 
